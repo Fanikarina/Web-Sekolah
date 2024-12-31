@@ -11,6 +11,7 @@ export default defineNuxtConfig({
       }]
     }
   },
-
-  modules: ['@nuxt/icon'],
+  module : ['@nuxt/icon'],
+  modules : ["@nuxtjs/supabase"],
+  supabase : { redirect : false }
 })
