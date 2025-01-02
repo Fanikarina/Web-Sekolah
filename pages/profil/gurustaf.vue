@@ -93,11 +93,11 @@
         <div class="row layer2 mt-5">
           <div class="judul text-center text-white mt-5">
             <h4 class="card-title">Guru BP / BK</h4>
-            <p class="card-text">
+            <p class="card-text mb-5">
               <small class="text-white">SMK Negeri 4 Tasikmalaya</small>
             </p>
           </div>
-          <div class="col-2">
+          <div class="col-2 mb-5">
             <div class="card">
               <img src="~/assets/img/logo.png" alt="" />
             </div>
