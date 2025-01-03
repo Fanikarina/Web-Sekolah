@@ -20,7 +20,6 @@
                             <li><nuxt-link to="/profil/sejarah" class="dropdown-item">Sejarah</nuxt-link></li>
                             <li><nuxt-link to="/profil/visimisi" class="dropdown-item">Visi & Misi</nuxt-link></li>
                             <li><nuxt-link to="/profil/kepsek" class="dropdown-item">Kepala Sekolah</nuxt-link></li>
-                            <li><nuxt-link to="/profil/struktur" class="dropdown-item">Struktur Organisasi</nuxt-link></li>
                             <li><nuxt-link to="/profil/gurustaf" class="dropdown-item">Guru & Staf</nuxt-link></li>
                         </ul>
                     </li>
